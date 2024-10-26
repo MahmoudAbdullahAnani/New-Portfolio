@@ -16,7 +16,8 @@ export const PROFILE = {
     "I enjoy providing software solutions and bring ideas to life and solve real-world problems.",
   website: "https://mahmoud-anani.vercel.app",
   repo: "https://github.com/MahmoudAbdullahAnani",
-  avatarUrl: "./../../public/Home-Avtar-removebg-preview.png", //public/Home-Avtar-removebg-preview.png
+  avatarUrl:
+    "https://raw.githubusercontent.com/MahmoudAbdullahAnani/New-Portfolio/refs/heads/main/public/Home-Avtar-removebg-preview.png", //public/Home-Avtar-removebg-preview.png
   shortIntros: [
     "💻 Frontend Developer || MERN Stack || ReactJS || NextJS",
     "☁️ Passionate about Web Development and Clean Code",
