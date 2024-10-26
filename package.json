@@ -1,19 +1,19 @@
 {
-  "site": "https://techtim42.com",
-  "id": "TechTim42",
-  "name": "@tim-hub/techtim42",
+  "site": "https://mahmoud-anani.vercel.app",
+  "id": "mahmoud-anani",
+  "name": "mahmoud-anani",
   "version": "1.0.0",
-  "fullName": "Tech Tim",
-  "description": "Learn, Share and Grow ❤️ -- Software Engineer | AWS Professional | Open Source Lover  --☘️ Be more productive, Better in communicating, Contribute more to community ",
+  "fullName": "Mahmoud Anani",
+  "description": "Learn, Share and Grow ❤️ -- Software Engineer | Full Stack Developer | Open Source Lover  --☘️ Be more productive, Better in communicating, Contribute more to community ",
   "author": {
-    "name": "Tech Tim",
-    "url": "https://TechTim42.com"
+    "name": "Mahmoud Anani",
+    "url": "https://mahmoud-anani.vercel.app"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tim-hub/techtim-astro-bento-portfolio"
+    "url": "https://github.com/MahmoudAbdullahAnani/New-Portfolio"
   },
-  "homepage": "https://techtim42.com",
+  "homepage": "https://mahmoud-anani.vercel.app",
   "keywords": [
     "astro",
     "portfolio",

@@ -1,90 +1,76 @@
-# TechTim's Astro Bento Portfolio
+# Mahmoud Anani - Front-End Developer | MERN Stack Specialist
 
-This template helps you build a portfolio using Astro, Typescript, React, Tailwind CSS, and Shadcn UI.
+[![LinkedIn](/public/preview/website.png)](https://mahmoud-anani.vercel.app)
 
-- [Live Demo](https://techtim42.com)
-- [Github Repo](https://github.com/tim-hub/techtim-astro-bento-portfolio)
+[![LinkedIn](/public/preview/linedin.png)](https://www.linkedin.com/in/mahmoud-abdullah-ab253920b)
 
-## Technologies Used
+---
 
-This project utilizes the following technologies:
+## 👋 Welcome to My Personal Website
 
-- **Astro**: A modern framework for building fast and efficient websites.
-- **Tailwind CSS**: A utility-first CSS framework for rapid and responsive design.
-- **Shadcn UI**: A collection of accessible and easy-to-use UI components.
-- **React**: For interactive components and advanced functionality.
-- **TypeScript**: For static type checking and improved developer experience.
+Hello! I’m **Mahmoud Anani**, an experienced Front-End Developer with a passion for translating intricate designs into functional and user-friendly interfaces. With over **3 years** of hands-on experience in **React** and the **MERN Stack**, I specialize in building efficient and scalable applications that bring innovative designs to life.
 
-## Requirements
+### 🚀 About Me
 
-Before starting, make sure you have the following requirements installed:
+As a developer, I am dedicated to learning and staying updated with the latest in web development trends. My journey has equipped me with a strong foundation in both independent project management and collaborative team dynamics, which allows me to contribute effectively to any development team.
 
-- Node.js (version 18 or higher)
-- pnpm (version 8 or higher)
+- **Location**: Zagazig, Sharqia, Egypt
+- **Email**: [mahmoud18957321@gmail.com](mailto:mahmoud18957321@gmail.com)
+- **WhatsApp | Call**: +201028876202
+- **LinkedIn**: [Mahmoud Anani](https://www.linkedin.com/in/mahmoud-abdullah-ab253920b)
 
-## Installation
+---
 
-To install and run the project locally, follow these steps:
+## 🛠️ Technical Skills
 
-1. Clone this repository:
+Here’s a quick look at the technologies I work with:
 
-   ```bash
-   git clone https://github.com/tim-hub/techtim-astro-bento-portfolio
-   ```
+- **Frontend**: JavaScript, TypeScript, React, NextJS, HTML5, CSS3, Sass, TailwindCSS, Bootstrap, Framer Motion, Material-UI, React Query
+- **Backend**: Node.js, NestJS, Express.js, MongoDB, MySQL, GraphQL, REST API
+- **DevOps & Tools**: Docker, GitHub, Nodemailer, Cloudinary
+- **Other**: JSON, Redux-Toolkit, Recoil, JWT, TypeORM, Localization, Stripe & PayPal Integration
 
-2. Navigate to the project directory:
+---
 
-   ```bash
-   cd techtim42
-   ```
+## 📚 Experience
 
-3. Install the dependencies:
+- **Front-End Developer** at _AddSmay_ (Jun 2022 - Sep 2022)  
+  Contributed to projects focused on the Emirati stock market, gaining valuable teamwork experience.
 
-   ```bash
-   pnpm install
-   ```
+- **MERN-Stack Developer** (Freelance, Apr 2023 - Nov 2023)  
+  Provided software solutions for companies, further honing my project execution skills.
 
-4. Start the development server:
+- **MERN-Stack Developer** at _Tisolver_ (Sep 2023 - Jul 2024)  
+  Worked on high-impact projects in a dynamic work environment at the Smart Village, Giza, with a strong focus on project deadlines and performance under pressure.
 
-   ```bash
-   pnpm run dev
-   ```
+---
 
-5. Open your browser and visit `http://localhost:4312` to see your portfolio in action.
-6. Config your site
-   1. Edit `src/content/profileData.ts` to add your profile data
-   2. Edit `astro.config.mjs` to change the site information
+## 💼 Featured Projects
 
+- **Tisolver Company Website**  
+  Built using **NextJS** and **Sanity**, with backend development using **GraphQL** to ensure SEO optimization and efficiency.
 
-## Important Considerations
+- **Stops Car Wash**  
+  A comprehensive car wash service platform for UAE, utilizing NextJS for user-friendly and responsive design.
 
-- **Accessibility**: Ensure your portfolio is accessible to all users, including those with disabilities.
-- **SEO**: Optimize your portfolio for search engines by adding meta tags and relevant content.
-- **Performance**: Use modern web development practices to ensure optimal performance, such as lazy loading images and minimizing CSS/JS.
-- **Responsive Design**: Make sure your portfolio looks good on devices of all sizes, from mobile to desktop screens.
+- **IT-Trip**  
+  A travel booking platform with user, admin, and manager roles, featuring two dashboards for project management and statistics, built using **NextJS**, **Node.js**, and **MongoDB**.
 
-## Contributions
+- **Octopus-Mall**  
+  An eCommerce application offering various product categories and payment options, developed using **ReactJS**, **Node.js**, **MongoDB**, and **Express.js**.
 
-Contributions are welcome! If you have ideas or improvements, please open an issue or submit a pull request.
+- **Azkar Muslims**  
+  A Progressive Web App (PWA) designed to serve Muslims with features like an electronic rosary and remembrance times, built with **ReactJS**.
 
-## License
+- **Alumni MET**  
+  A LinkedIn-like platform for the Misr Higher Institute community, developed with **PHP**, **MySQL**, and **ReactJS**.
 
-- This source codes are licensed under the [MIT License](LICENSE).
-- The content (`src/content/`) of the portfolio is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-- The images (`public/`) used in the project are for template demonstration purposes only and should not be reused without permission.
+---
 
-## Inspiration
+## 📬 Let's Connect!
 
-This project was inspired by several outstanding portfolios. Here are some that served as references:
+I’m always open to discussing new projects or ideas. Reach out via [email](mailto:mahmoud18957321@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-abdullah-ab253920b) for any collaboration or inquiries!
 
-- [Bento Like Portfolio](https://github.com/Ladvace/astro-bento-portfolio)
-- [Minimal and bento Portfolio ](https://github.com/bue221/astro-portfolio)
+---
 
-### Differences / Improvements
-
-- Centralised data management inside one folder
-  - Use Astro recommended [Content Collection](https://docs.astro.build/en/guides/content-collections/) to manage data
-  - `src/content` folder for blog posts, project data and profile data
-  - `src/content/profileData.ts` for general profile data
-- Tags system
-- Simplified Dark/Light mode toggle
+Thank you for visiting my personal website!
