@@ -19,7 +19,7 @@ export const PROFILE = {
   avatarUrl:
     "https://raw.githubusercontent.com/MahmoudAbdullahAnani/New-Portfolio/refs/heads/main/public/Home-Avtar-removebg-preview.png", //public/Home-Avtar-removebg-preview.png
   shortIntros: [
-    "💻 Frontend Developer || MERN Stack || ReactJS || NextJS",
+    "💻 Software Engineer || Full Stack Developer || NextJS || NestJS",
     "☁️ Passionate about Web Development and Clean Code",
     "🚀 Focused on delivering seamless user experiences and optimized performance",
     "📈 Always learning and staying up to date with the latest technologies",
